@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://shajwan-namiq.netlify.app/](https://shajwan-namiq.netlify.app/)
+- 💻 All of my projects are available at [https://shajwan-namiq.netlify.app/](https://shajwan-namiq.netlify.app/)
 
 - 📫 How to reach me **shajwannamiqsalh@gmail.com**
 
