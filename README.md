@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shajwan Namiq</h1>
 <h3 align="center">A passionate frontend developer from Iraq</h3>
 
-- 💻 All of my projects are available at [https://shajwan-namiq.netlify.app/](https://shajwan-namiq.netlify.app/)
+- 💻 All of my projects are available at [https://shajwan-namiq.netlify.app/](https://portfolio-shajwan.netlify.app/)
 
 - 📫 How to reach me **shajwannamiqsalh@gmail.com**
 
