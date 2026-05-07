@@ -9,7 +9,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 - 🌱 Currently learning and exploring **Artificial Intelligence and Machine Learning**
 
-- 👨‍💻 Experienced with modern frontend and full-stack development using **React, Vue, Next.js, Node.js, and Supabase**
+- 👨‍💻 Experienced with modern frontend development using **React, Vue, Next.js, and Supabase**
 
 - 📫 Reach me at: **shajwannamiqsalh@gmail.com**
 
@@ -57,14 +57,6 @@ Passionate about building modern, responsive, and user-friendly web applications
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a>
 
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
@@ -85,10 +77,6 @@ Passionate about building modern, responsive, and user-friendly web applications
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
 </a>
 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe xd" width="40" height="40"/>
-</a>
-
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </a>
@@ -97,20 +85,16 @@ Passionate about building modern, responsive, and user-friendly web applications
 <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
 </a>
 
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google colab" width="40" height="40"/>
 </a>
 
 </p>
